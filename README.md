@@ -1,15 +1,17 @@
-# <img src="icon-stark.png" alt="🐺" width="64"/> Avoid Spoilers
+# Avoid Spoilers
+#### "It is not wise to judge others based on your own preconceptions and their appearances."  <img src="icon-itachi.png" alt="🐺" height="40"/>
+<br>
 
-### "It is not wise to judge others based on your own preconceptions and their appearances."
+![](https://github.com/adityanjr/spoilers-chrome/blob/main/images/4.PNG)  
+<br>
+This extension will block contents and avoid from reading spoilers and visual images.
+ 
+ <br>
+<img src="https://github.com/adityanjr/spoilers-chrome/blob/main/images/1.PNG" width="450"/>
+<img src="https://github.com/adityanjr/spoilers-chrome/blob/main/images/2.PNG" width="450"/>
+<img src="https://github.com/adityanjr/spoilers-chrome/blob/main/images/3.PNG" width="450"/>
 
-This extension will block contents and avoid from reading spoilers and visual images. <br/>
-
-<img src="images/1.png" alt="extension" width="450"/>
-<img src="images/2.png" alt="drawing" width="450"/>
-<img src="images/3.png" alt="drawing" width="450"/>
-<img src="images/4.png" alt="drawing" width="450"/>
-
-# How To Use?
+### How To Use?
 
 - Clone this repository.
 - Open Google Chrome
@@ -19,7 +21,7 @@ This extension will block contents and avoid from reading spoilers and visual im
 - Select the Directory of this cloned Project.
 - That's it. Search on google and Try!!
 
-# Why this Extension?
+### Why this Extension?
 
 - To save one who is binging Naruto (it's too damn long).
 - To solve the problem as a Software Developer
